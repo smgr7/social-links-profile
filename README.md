@@ -44,6 +44,8 @@ Users should be able to:
 
 ### What I learned
 
+I realised it's becoming easier and faster to code this challenge. Practice really helps a lot.
+
 ## Author
 
 - Frontend Mentor - [@smgr7](https://www.frontendmentor.io/profile/smgr7)
