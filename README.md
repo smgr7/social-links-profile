@@ -11,10 +11,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -30,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-BHjENoOYGV]
+- Solution URL: [https://github.com/smgr7/qrcode-component]
 - Live Site URL: [https://smgr7.github.io/social-links-profile/]
 
 ## My process
