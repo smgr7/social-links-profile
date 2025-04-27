@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-BHjENoOYGV]
+- Live Site URL: [https://smgr7.github.io/social-links-profile/]
 
 ## My process
 

@@ -57,6 +57,13 @@ a {
     font-size: 12px;
 }
 
+a:hover {
+    background-color: hsl(75, 94%, 57%);
+    cursor: pointer;
+    color: hsl(0, 0%, 12%);
+    transition: all 400ms ease-in-out;
+}
+
 h1 {
     font-weight: 600;
     padding-bottom: 4px;
